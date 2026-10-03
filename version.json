@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.5",
-  "version_code": 6,
+  "latest_version": "1.0.6",
+  "version_code": 7,
   "min_version_code": 1,
   "force_update": false,
   "title": "UPDATE AVAILABLE",
   "message": "A new version of Music Square is available on Google Play!\nUpdate now to enjoy the latest songs, features, and performance improvements.",
-  "release_notes": "• New synthwave songs & visual overhaul\n• Google Play Games Services leaderboard integration\n• Enhanced touch response and audio sync\n• Performance optimizations and bug fixes",
+  "release_notes": "• In-game update detection & Google Play prompt\n• Revive flow polish: resume game button after watching ads\n• Google Play Games Services leaderboard integration\n• Performance optimizations and audio sync improvements",
   "store_url": "https://play.google.com/store/apps/details?id=com.psygames.musicsquare"
 }
