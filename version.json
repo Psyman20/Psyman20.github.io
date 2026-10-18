@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.6",
-  "version_code": 7,
+  "latest_version": "1.1.0",
+  "version_code": 8,
   "min_version_code": 1,
   "force_update": false,
   "title": "UPDATE AVAILABLE",
-  "message": "A new version of Music Square is available on Google Play!\nUpdate now to enjoy the latest songs, features, and performance improvements.",
-  "release_notes": "• In-game update detection & Google Play prompt\n• Revive flow polish: resume game button after watching ads\n• Google Play Games Services leaderboard integration\n• Performance optimizations and audio sync improvements",
+  "message": "A new version of Music Square is available on Google Play!\nUpdate now to enjoy the latest songs, daily missions, and performance improvements.",
+  "release_notes": "• 3 Rotating Daily Missions with Neon Sparks rewards\n• Cosmetic Customization Shop: trails, square skins, and hit sounds\n• Modern retro background themes and visual enhancements\n• Google Play Games Services leaderboard integration\n• Enhanced main menu and performance optimizations",
   "store_url": "https://play.google.com/store/apps/details?id=com.psygames.musicsquare"
 }
